@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hamadi Oumar</h1>
-<h3 align="center">Software developer</h3>
+<h3 align="center">Machine learning developer</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MLOps**
 
 - 📝 I regularly write articles on [https://medium.com/@hamadioumar00](https://medium.com/@hamadioumar00)
 
-- 💬 Ask me about **Flutter and Dart**
+- 💬 Ask me about **ML and Flutter/Dart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
