@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamadi Oumar</h1>
+<h1 align="center">Hi 👋, I'm Hamadi Oumar and i'am passionate about AI and have three years of experience in flutter</h1>
 <h3 align="center">Machine learning developer</h3>
 
 - 🌱 I’m currently learning **MLOps**
